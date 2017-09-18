@@ -5,7 +5,6 @@ cask 'chromedefault' do
   url "https://github.com/kadaan/homebrew-apps/releases/download/ChromeDefault_#{version}/ChromeDefault_#{version}.tbz2"
   name 'Chrome'
   homepage 'https://www.google.com/chrome/'
-  license :gratis
 
   app 'Chrome.app'
 end
