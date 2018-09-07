@@ -4,7 +4,6 @@ cask 'utcmenuclock' do
 
   url "https://github.com/kadaan/UTCMenuClock/releases/download/#{version}/UTCMenuClock_#{version}.tbz2"
   name 'UTCMenuClock'
-  license :gratis
 
   app 'UTCMenuClock.app'
 end
